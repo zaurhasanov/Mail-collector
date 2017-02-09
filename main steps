@@ -1,0 +1,8 @@
+
+msfconsole
+use auxiliary/gather/search_email_collector
+show options
+set DOMAIN {domein}
+run
+
+With Kali Linux
